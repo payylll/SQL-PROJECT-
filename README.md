@@ -1,1 +1,1 @@
-# SQL-PROJECT-
+# SQL-PROJECT- Streamlining Data Management
